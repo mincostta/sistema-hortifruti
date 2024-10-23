@@ -13,7 +13,9 @@ Como projeto semestral da faculdade, foi solicitado um sistema de hortifruti fei
 Assim que o sistema é iniciado, caso o usuário deseje registrar uma compra, será necessário informar o código do produto. O sistema automaticamente detecta de qual produto se trata e seu peso por kg, somente através desse código fornecido pelo usuário. O usuário então fornece quanto daquele produto está sendo comprado, ou seja, o peso em gramas, e logo o sistema calcula o valor. É possível adicionar quantos produtos desejar e, após a compra ter sido finalizada, é possível iniciar uma nova, sem necessidade de reiniciar o console. Também há cálculo de troco.
 
 ## Demonstração
-Exemplo de gif será inserido depois
+<p align="center">
+  <img src="/assets/demo.gif">
+</p>
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/mincostta/sistema-hortifruti/blob/main/LICENSE) para mais detalhes.
